@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Toward plant breeding for multicrop systems" style="rich" %}
+{% include citation.html lookup="Sainfoin (Onobrychis spp.) crop ontology" style="rich" %}
 
 {% include section.html %}
 
