@@ -1,174 +1,603 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.5281/zenodo.8422458
+  title: Project Directory Structure SOP
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Bo Meyering
+  - Spencer Barriball
+  - Brandon Schlautman
+  publisher: Zenodo
+  date: '2023-10-10'
+  link: https://doi.org/gs6s6n
+  orcid: 0000-0002-9983-259X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.5281/zenodo.8346924
+  title: Sainfoin Pod Threshing Images
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Bo Meyering
+  - Spencer Barriball
+  - Malachi DeHaan
+  - "Muhammet \u015Eakiro\u011Flu"
+  - Brandon Schlautman
+  publisher: Zenodo
+  date: '2023-09-14'
+  link: https://doi.org/gs6s6p
+  orcid: 0000-0002-9983-259X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.5281/zenodo.8346923
+  title: Sainfoin Pod Threshing Images
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Bo Meyering
+  - Spencer Barriball
+  - Malachi DeHaan
+  - "Muhammet \u015Eakiro\u011Flu"
+  - Brandon Schlautman
+  publisher: Zenodo
+  date: '2023-09-14'
+  link: https://doi.org/gs6s6q
+  orcid: 0000-0002-9983-259X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.5281/zenodo.8410384
+  title: Sainfoin Pod Threshing Images
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Bo Meyering
+  - Spencer Barriball
+  - Malachi DeHaan
+  - "Muhammet \u015Eakiro\u011Flu"
+  - Brandon Schlautman
+  publisher: Zenodo
+  date: '2023-09-14'
+  link: https://doi.org/gs6s6r
+  orcid: 0000-0002-9983-259X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1073/pnas.2205792119
+  title: Toward plant breeding for multicrop systems
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Virginia M. Moore
+  - Tessa Peters
+  - Brandon Schlautman
+  - E. Charles Brummer
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-03-27'
+  link: https://doi.org/gs6s6s
+  orcid: 0000-0002-9983-259X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.pbi.2021.102150
+  title: Re-imagining crop domestication in the era of high throughput phenomics
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - David L. Van Tassel
+  - Lee R. DeHaan
+  - Luis Diaz-Garcia
+  - Jenna Hershberger
+  - Matthew J. Rubin
+  - Brandon Schlautman
+  - Kathryn Turner
+  - Allison J. Miller
+  publisher: Current Opinion in Plant Biology
+  date: '2022-02-01'
+  link: https://doi.org/gnzbd6
+  orcid: 0000-0002-9983-259X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1002/csc2.20662
+  title: Intermediate wheatgrass seed size and moisture dynamics inform grain harvest
+    timing
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Garett C. Heineck
+  - Brandon Schlautman
+  - Eugene P. Law
+  - Matthew R. Ryan
+  - Joseph W. Zimbric
+  - Valentin Picasso
+  - David E. Stoltenberg
+  - Craig C. Sheaffer
+  - Jacob M. Jungers
+  publisher: Crop Science
+  date: '2021-12-10'
+  link: https://doi.org/gs6s6t
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1042/ETLS20200318
+  title: 'Perennial groundcovers: an emerging technology for soil conservation and
+    the sustainable intensification of agriculture'
+  authors:
+  - Brandon Schlautman
+  - Cynthia Bartel
+  - Luis Diaz-Garcia
+  - Shuizhang Fei
+  - Scott Flynn
+  - Erin Haramoto
+  - Ken Moore
+  - D Raj Raman
+  publisher: Emerging Topics in Life Sciences
+  date: '2021-05-11'
+  link: https://doi.org/grpwqr
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.agrformet.2021.108341
+  title: Process-based analysis of Thinopyrum intermedium phenological development
+    highlights the importance of dual induction for reproductive growth and agronomic
+    performance
+  authors:
+  - Olivier Duchene
+  - Benjamin Dumont
+  - Douglas J. Cattani
+  - Laura Fagnant
+  - Brandon Schlautman
+  - Lee R. DeHaan
+  - Spencer Barriball
+  - Jacob M. Jungers
+  - Valentin D. Picasso
+  - Christophe David
+  - Florian Celette
+  publisher: Agricultural and Forest Meteorology
+  date: '2021-05-01'
+  link: https://doi.org/gs6s6v
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fpls.2020.00789
+  title: 'New Food Crop Domestication in the Age of Gene Editing: Genetic, Agronomic
+    and Cultural Change Remain Co-evolutionarily Entangled'
+  authors:
+  - David L. Van Tassel
+  - Omar Tesdell
+  - Brandon Schlautman
+  - Matthew J. Rubin
+  - Lee R. DeHaan
+  - Timothy E. Crews
+  - Aubrey Streit Krug
+  publisher: Frontiers in Plant Science
+  date: '2020-06-11'
+  link: https://doi.org/ghdj6q
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jaridenv.2019.104085
+  title: Envisioning perennial agroecosystems in Palestine
+  authors:
+  - Omar Tesdell
+  - Yusra Othman
+  - Yara Dowani
+  - Samir Khraishi
+  - Mary Deeik
+  - Fouad Muaddi
+  - Brandon Schlautman
+  - Aubrey Streit Krug
+  - David Van Tassel
+  publisher: Journal of Arid Environments
+  date: '2020-04-01'
+  link: https://doi.org/gh8jpj
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.plantsci.2019.110319
+  title: 'Morphometric approaches to promote the use of exotic germplasm for improved
+    food security and resilience to climate change: a kura clover example'
+  authors:
+  - Brandon Schlautman
+  - Luis Diaz-Garcia
+  - Spencer Barriball
+  publisher: Plant Science
+  date: '2020-01-01'
+  link: https://doi.org/ggj8vf
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/s1479262119000248
+  title: Assessment of the biogeographical variation of seed size and seed oil traits
+    in wild<i>Silphium integrifolium</i>Michx. genotypes
+  authors:
+  - Stephan Reinert
+  - David L. Van Tassel
+  - Brandon Schlautman
+  - Nolan C. Kane
+  - Brent S. Hulke
+  publisher: 'Plant Genetic Resources: Characterization and Utilization'
+  date: '2019-09-10'
+  link: https://doi.org/gs6s6w
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ppp3.37
+  title: 'Building a botanical foundation for perennial agriculture: Global inventory
+    of wild, perennial herbaceous Fabaceae species'
+  authors:
+  - Claudia Ciotir
+  - Wendy Applequist
+  - Timothy E. Crews
+  - Neculai Cristea
+  - Lee R. DeHaan
+  - Emma Frawley
+  - Sterling Herron
+  - Robert Magill
+  - James Miller
+  - Yury Roskov
+  - Brandon Schlautman
+  - James Solomon
+  - Andrew Townesmith
+  - David Van Tassel
+  - James Zarucchi
+  - Allison J. Miller
+  publisher: PLANTS, PEOPLE, PLANET
+  date: '2019-06-05'
+  link: https://doi.org/ggnr5q
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12041-018-1036-3
+  title: Genetic diversity and cultivar variants in the NCGR cranberry (Vaccinium
+    macrocarpon Aiton) collection
+  authors:
+  - B. Schlautman
+  - G. Covarrubias-Pazaran
+  - L. Rodriguez-Bonilla
+  - K. Hummer
+  - N. Bassil
+  - T. Smith
+  - J. Zalapa
+  publisher: Journal of Genetics
+  date: '2018-11-30'
+  link: https://doi.org/gnq7nk
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00438-018-1464-z
+  title: Massive phenotyping of multiple cranberry populations reveals novel QTLs
+    for fruit anthocyanin content and other important chemical traits
+  authors:
+  - Luis Diaz-Garcia
+  - Brandon Schlautman
+  - Giovanny Covarrubias-Pazaran
+  - Andrew Maule
+  - Jennifer Johnson-Cicalese
+  - Edward Grygleski
+  - Nicholi Vorsa
+  - Juan Zalapa
+  publisher: Molecular Genetics and Genomics
+  date: '2018-07-02'
+  link: https://doi.org/gk9xdr
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fpls.2018.01310
+  title: Multivariate GBLUP Improves Accuracy of Genomic Selection for Yield and Fruit
+    Weight in Biparental Populations of Vaccinium macrocarpon Ait
+  authors:
+  - Giovanny Covarrubias-Pazaran
+  - Brandon Schlautman
+  - Luis Diaz-Garcia
+  - Edward Grygleski
+  - James Polashock
+  - Jennifer Johnson-Cicalese
+  - Nicholi Vorsa
+  - Massimo Iorizzo
+  - Juan Zalapa
+  publisher: Frontiers in Plant Science
+  date: '2018-09-12'
+  link: https://doi.org/gd9g2j
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7717/peerj.5461
+  title: Image-based phenotyping for identification of QTL determining fruit shape
+    and size in American cranberry (<i>Vaccinium macrocarpon</i>L.)
+  authors:
+  - Luis Diaz-Garcia
+  - Giovanny Covarrubias-Pazaran
+  - Brandon Schlautman
+  - Edward Grygleski
+  - Juan Zalapa
+  publisher: PeerJ
+  date: '2018-08-15'
+  link: https://doi.org/gk9xd5
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/su10030730
+  title: 'Perennial Grain Legume Domestication Phase I: Criteria for Candidate Species
+    Selection'
+  authors:
+  - Brandon Schlautman
+  - Spencer Barriball
+  - Claudia Ciotir
+  - Sterling Herron
+  - Allison Miller
+  publisher: Sustainability
+  date: '2018-03-07'
+  link: https://doi.org/gdf3dj
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11032-017-0765-y
+  title: Comparative genetic mapping reveals synteny and collinearity between the
+    American cranberry and diploid blueberry genomes
+  authors:
+  - Brandon Schlautman
+  - Luis Diaz-Garcia
+  - Giovanny Covarrubias-Pazaran
+  - Nathan Schlautman
+  - Nicholi Vorsa
+  - James Polashock
+  - Elizabeth L. Ogden
+  - Allan Brown
+  - Ying-Chen Lin
+  - Nahla Bassil
+  - Emily J. Buck
+  - Claudia Wiedow
+  - Susan McCallum
+  - Julie Graham
+  - Massimo Iorizzo
+  - Lisa J. Rowland
+  - Juan Zalapa
+  publisher: Molecular Breeding
+  date: '2017-12-22'
+  link: https://doi.org/gcvs89
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esx023
+  title: 'SOFIA: An R Package for Enhancing Genetic Visualization With Circos'
+  authors:
+  - Luis Diaz-Garcia
+  - Giovanny Covarrubias-Pazaran
+  - Brandon Schlautman
+  - Juan Zalapa
+  publisher: Journal of Heredity
+  date: '2017-04-20'
+  link: https://doi.org/gbkhcx
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10530-017-1404-6
+  title: Intra- and interspecific hybridization in invasive Siberian elm
+  authors:
+  - Heidi Hirsch
+  - Johanne Brunet
+  - Juan E. Zalapa
+  - Henrik von Wehrden
+  - Matthias Hartmann
+  - Carolin Kleindienst
+  - Brandon Schlautman
+  - Evsey Kosman
+  - Karsten Wesche
+  - Daniel Renison
+  - Isabell Hensen
+  publisher: Biological Invasions
+  date: '2017-03-16'
+  link: https://doi.org/gbgwpd
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.scienta.2017.03.005
+  title: Cranberry SSR multiplexing panels for DNA horticultural fingerprinting and
+    genetic studies
+  authors:
+  - Brandon Schlautman
+  - Jenny Bolivar-Medina
+  - Sarah Hodapp
+  - Juan Zalapa
+  publisher: Scientia Horticulturae
+  date: '2017-05-01'
+  link: https://doi.org/f95jqf
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/g3.116.037556
+  title: Construction of a High-Density American Cranberry (<i>Vaccinium macrocarpon</i>Ait.)
+    Composite Map Using Genotyping-by-Sequencing for Multi-pedigree Linkage Mapping
+  authors:
+  - Brandon Schlautman
+  - Giovanny Covarrubias-Pazaran
+  - Luis Diaz-Garcia
+  - Massimo Iorizzo
+  - James Polashock
+  - Edward Grygleski
+  - Nicholi Vorsa
+  - Juan Zalapa
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2017-04-01'
+  link: https://doi.org/gsvfhf
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10722-016-0371-6
+  title: Discriminating power of microsatellites in cranberry organelles for taxonomic
+    studies in Vaccinium and Ericaceae
+  authors:
+  - Brandon Schlautman
+  - Giovanny Covarrubias-Pazaran
+  - Diego Fajardo
+  - Shawn Steffan
+  - Juan Zalapa
+  publisher: Genetic Resources and Crop Evolution
+  date: '2016-02-02'
+  link: https://doi.org/gs6s6x
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2135/cropsci2016.10.0834
+  title: 'Accelerating <i>Silphium</i> Domestication: An Opportunity to Develop New
+    Crop Ideotypes and Breeding Strategies Informed by Multiple Disciplines'
+  authors:
+  - David L. Van Tassel
+  - Kenneth A. Albrecht
+  - James D. Bever
+  - Arvid A. Boe
+  - Yaniv Brandvain
+  - Timothy E. Crews
+  - Markus Gansberger
+  - Pedro Gerstberger
+  - "Luciana Gonz\xE1lez\u2010Paleo"
+  - Brent S. Hulke
+  - Nolan C. Kane
+  - Paul J. Johnson
+  - Elena G. Pestsova
+  - "Valent\xEDn D. Picasso Risso"
+  - Jarrad R. Prasifka
+  - Damian A. Ravetta
+  - Brandon Schlautman
+  - Craig C. Sheaffer
+  - Kevin P. Smith
+  - Pablo R. Speranza
+  - M. Kathryn Turner
+  - Alejandra E. Vilela
+  - Philipp von Gehren
+  - Christian Wever
+  publisher: Crop Science
+  date: '2017-05-01'
+  link: https://doi.org/gbm5r3
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-016-2802-3
+  title: Exploiting genotyping by sequencing to characterize the genomic structure
+    of the American cranberry through high-density linkage mapping
+  authors:
+  - Giovanny Covarrubias-Pazaran
+  - Luis Diaz-Garcia
+  - Brandon Schlautman
+  - Joseph Deutsch
+  - Walter Salazar
+  - Miguel Hernandez-Ochoa
+  - Edward Grygleski
+  - Shawn Steffan
+  - Massimo Iorizzo
+  - James Polashock
+  - Nicholi Vorsa
+  - Juan Zalapa
+  publisher: BMC Genomics
+  date: '2016-06-13'
+  link: https://doi.org/gs6s6z
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12863-016-0365-6
+  title: 'Fragman: an R package for fragment analysis'
+  authors:
+  - Giovanny Covarrubias-Pazaran
+  - Luis Diaz-Garcia
+  - Brandon Schlautman
+  - Walter Salazar
+  - Juan Zalapa
+  publisher: BMC Genetics
+  date: '2016-04-21'
+  link: https://doi.org/f8j6pz
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0160439
+  title: GiNA, an Efficient and High-Throughput Software for Horticultural Phenotyping
+  authors:
+  - Luis Diaz-Garcia
+  - Giovanny Covarrubias-Pazaran
+  - Brandon Schlautman
+  - Juan Zalapa
+  publisher: PLOS ONE
+  date: '2016-08-16'
+  link: https://doi.org/gbp3d5
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11032-015-0367-5
+  title: Development of a high-density cranberry SSR linkage map for comparative genetic
+    analysis and trait detection
+  authors:
+  - Brandon Schlautman
+  - Giovanny Covarrubias-Pazaran
+  - Luis A. Diaz-Garcia
+  - Jennifer Johnson-Cicalese
+  - Massimo Iorrizo
+  - Lorraine Rodriguez-Bonilla
+  - Tierney Bougie
+  - Tiffany Bougie
+  - Eric Wiesman
+  - Shawn Steffan
+  - James Polashock
+  - Nicholi Vorsa
+  - Juan Zalapa
+  publisher: Molecular Breeding
+  date: '2015-08-01'
+  link: https://doi.org/f7n2z9
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/aab.12173
+  title: Clonal diversity and genetic differentiation revealed by SSR markers in wild<i>Vaccinium
+    macrocarpon</i>and<i>Vaccinium oxycoccos</i>
+  authors:
+  - J.E. Zalapa
+  - T.C. Bougie
+  - T.A. Bougie
+  - B.J. Schlautman
+  - E. Wiesman
+  - A. Guzman
+  - D.A. Fajardo
+  - S. Steffan
+  - T. Smith
+  publisher: Annals of Applied Biology
+  date: '2014-11-06'
+  link: https://doi.org/f634xq
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/molecules20022001
+  title: Development and Validation of 697 Novel Polymorphic Genomic and EST-SSR Markers
+    in the American Cranberry (Vaccinium macrocarpon Ait.)
+  authors:
+  - Brandon Schlautman
+  - Diego Fajardo
+  - Tierney Bougie
+  - Eric Wiesman
+  - James Polashock
+  - Nicholi Vorsa
+  - Shawn Steffan
+  - Juan Zalapa
+  publisher: Molecules
+  date: '2015-01-27'
+  link: https://doi.org/f63dz4
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3835/plantgenome2013.11.0038
+  title: "Generation and Characterization of a Sugarbeet Transcriptome and Transcript\u2010\
+    Based SSR Markers"
+  authors:
+  - Karen Klotz Fugate
+  - Diego Fajardo
+  - Brandon Schlautman
+  - Jocleita Peruzzo Ferrareze
+  - Melvin D. Bolton
+  - Larry G. Campbell
+  - Eric Wiesman
+  - Juan Zalapa
+  publisher: The Plant Genome
+  date: '2014-07-01'
+  link: https://doi.org/gs6s62
+  orcid: 0000-0002-9983-259X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gene.2013.11.104
+  title: The American cranberry mitochondrial genome reveals the presence of selenocysteine
+    (tRNA-Sec and SECIS) insertion machinery in land plants
+  authors:
+  - Diego Fajardo
+  - Brandon Schlautman
+  - Shawn Steffan
+  - James Polashock
+  - Nicholi Vorsa
+  - Juan Zalapa
+  publisher: Gene
+  date: '2014-02-01'
+  link: https://doi.org/f5sb5k
+  orcid: 0000-0002-9983-259X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +613,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +629,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
