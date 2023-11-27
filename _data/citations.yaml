@@ -621,8 +621,11 @@
   - Brandon Schlautman
   - "Muhammet \u015Eakiro\u011Flu"
   publisher: Frontiers in Plant Science
-  date: ''
+  date: '2023-05-15'
   link: https://doi.org/gsmsbh
-  type: paper
+  image: images/publications/karabulut2023.jpeg
+  buttons:
+  - type: journal
+    link: https://doi.org/10.3389/fpls.2023.1177406
   plugin: sources.py
   file: sources.yaml
