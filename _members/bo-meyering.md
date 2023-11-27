@@ -1,13 +1,15 @@
 ---
-name: Jane Smith
+name: Bo Meyering
 image: images/photo.jpg
-role: pi
+role: developer
 aliases:
-  - J. Smith
-  - J Smith
+  - Bryce Meyering
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-1524-787X
+  linkedin: bo-meyering-37955b139
+  github: BoMeyering
+  home-page: https://www.bomeyering.me/
+  email: meyering@landinstitute.org
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
