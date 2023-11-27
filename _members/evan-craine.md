@@ -1,18 +1,13 @@
 ---
 name: Evan Craine
-image: images/photo.jpg
+image: images/team_photos/craine.jpg
 role: postdoc
 links:
   orcid: 0000-0001-8713-9213
   linkedin: evan-craine-24a4b0a6
-  github: 
-  email: 
+  github: EvanCraine
+  home-page: https://landinstitute.org/
+  email: craine@landinstitute.org
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I'm a post-doctoral researcher in the legume lab

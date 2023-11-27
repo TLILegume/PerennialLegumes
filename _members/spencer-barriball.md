@@ -1,18 +1,13 @@
 ---
 name: Spencer Barriball
-image: images/photo.jpg
+image: images/team_photos/barriball.jpg
 role: labmanager
 links:
-  orcid: 
+  orcid: 0000-0002-3661-4034
   linkedin: spencer-barriball-175a0856
-  github:
-  email:
+  github: barriball
+  home-page: https://landinstitute.org/
+  email: barriball@landinstitute.org
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I keep the day to day lab operations running smoothly.
