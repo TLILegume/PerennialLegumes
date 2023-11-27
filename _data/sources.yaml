@@ -1,5 +1,5 @@
 - id: doi:10.3389/fpls.2023.1177406
-  image: https://www.turing.ac.uk/sites/default/files/2019-01/crop_ontology_logo.png
+  image: images/co_logo.png
   date: "2023-05-15"
   buttons:
     - type: journal
