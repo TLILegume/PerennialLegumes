@@ -600,3 +600,29 @@
   orcid: 0000-0002-9983-259X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3389/fpls.2023.1177406
+  title: 'Sainfoin (Onobrychis spp.) crop ontology: supporting germplasm characterization
+    and international research collaborations'
+  authors:
+  - Ebrar Karabulut
+  - "K\xFCbra Erko\xE7"
+  - "Murat Ac\u0131"
+  - "Mahmut Ayd\u0131n"
+  - Spencer Barriball
+  - Jackson Braley
+  - Eric Cassetta
+  - Evan B. Craine
+  - Luis Diaz-Garcia
+  - Jenna Hershberger
+  - Bo Meyering
+  - Allison J. Miller
+  - Matthew J. Rubin
+  - Omar Tesdell
+  - Brandon Schlautman
+  - "Muhammet \u015Eakiro\u011Flu"
+  publisher: Frontiers in Plant Science
+  date: ''
+  link: https://doi.org/gsmsbh
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
