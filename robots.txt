@@ -1,1 +1,1 @@
-Sitemap: /PerennialLegumes/sitemap.xml
+Sitemap: /sitemap.xml
