@@ -1,0 +1,30 @@
+- title: Sainfoin Pod Threshing Images
+  subtitle: Seed object detection and classification
+  group: featured
+  image: images/datasets/sainfoin_seed.jpg
+  link: https://zenodo.org/doi/10.5281/zenodo.8346923
+  description: Images taken of 5 different, commercially available sainfoin varieties processed by two different threshing methods in 5 different sample amounts. This dataset includes a JSON file for the bounding boxes and classifications of all seed objects in each image.
+  repo: TLILegume/
+  tags:
+    - dataset
+
+- title: Kura Clover Accession Plot Images
+  subtitle: 
+  group: featured
+  image: images/datasets/kura_clover.jpg
+  link: 
+  description: Images of field grown kura clover PI accessions from USDA/GRIN. All images were taken with a PVC quadrat surrounding the plant, and the plots were hand weeded before imaging. Data includes the images in a 80/20 train/val split with 35 test images. Segmentation masks are in .mat format and quadrat corner bounding boxes are included as a .csv file.
+  repo: TLILegume/
+  tags:
+    - dataset
+
+- title: Cool Web Server
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+
