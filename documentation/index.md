@@ -1,7 +1,7 @@
 ---
 title: Documentation
 nav:
-  order: 1
+  order: 4
   tooltip: Published works
 ---
 
@@ -12,16 +12,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Sainfoin (Onobrychis spp.) crop ontology" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" filters="publisher: ^(?!Zenodo$)" style="rich" %}
+<iframe class="airtable-embed" src="https://airtable.com/embed/appObEhnCSZUNTu9j/shrOEUwICwbaLbQ59?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
