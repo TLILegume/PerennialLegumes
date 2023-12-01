@@ -31,5 +31,3 @@ As we continue to write and develop our SOPs we will publish them on Zenodo so t
 The table below lists all of our currently published and unpublished SOP documents. Follow the Zenodo link to download them.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appObEhnCSZUNTu9j/shrOEUwICwbaLbQ59?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-{% include footer.html}
