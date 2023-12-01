@@ -1,13 +1,13 @@
 ---
 ---
 
-# TLILegume's Website
+# Welcome to the Perennial Legumes Program
 
 An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
 
-## Highlights
+## Program Highlights
 
 {% capture text %}
 
