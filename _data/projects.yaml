@@ -1,10 +1,10 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: RegenPGC
+  subtitle: Perennial Groundcover Systems
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/regenpgc.png
+  link: https://www.regenpgc.org/
+  description: RegenPGC stands for Regenerating America’s Working Landscapes to Enhance Natural Resources and Public Goods through Perennial Groundcover. We are a transdisciplinary team of scientists and engineers, funded by USDA-NIFA, with a shared vision of making year-round groundcover on working lands the norm, rather than the exception, for Midwestern US agriculture and beyond.
+  repo: 
   tags:
     - resource
 
