@@ -9,5 +9,4 @@ links:
   home-page: https://landinstitute.org/
   email: barriball@landinstitute.org
 ---
-
-I keep the day to day lab operations running smoothly.
+Spencer received his Bachelor of Science degree in Horticulture from the University of Minnesota and a Master’s of Agronomy degree from Iowa State University. He previously worked at UofM Horticultural Department under the Potato Breeding and Genetics program as a research technician. In his current role at The Land Institute, Spencer works on developing and maintaining recurrent selection breeding cycles of Sainfoin, Kura clover, and various other perennial legumes species. He also works to support additional research interests including agronomic studies for sainfoin and legume/intermediate wheatgrass intercropping systems.
