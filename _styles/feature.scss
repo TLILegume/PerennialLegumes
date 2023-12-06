@@ -11,6 +11,11 @@ $wrap: 800px;
   margin: 40px 0;
 }
 
+.feature:hover {
+  background-color: gray;
+  opacity: 0.2;
+}
+
 .feature-image {
   flex-shrink: 0;
   width: 40%;
