@@ -12,17 +12,17 @@
 
 .figure-image {
   display: contents;
-  transition: transform 0.3s ease-in-out;
-}
-
-.figure-image:hover {
-  transform: scale(1.1);
 }
 
 .figure-image img {
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
+  transition: transform 0.3s ease-in-out;
+}
+
+.figure-image img:hover {
+  transform: scale(1.1);
 }
 
 .figure-caption {
