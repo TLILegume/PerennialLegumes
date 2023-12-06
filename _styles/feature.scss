@@ -9,6 +9,7 @@ $wrap: 800px;
   align-items: center;
   gap: 40px;
   margin: 40px 0;
+  transition: background-color 0.2s ease-in-out;
 }
 
 .feature:hover {
