@@ -38,6 +38,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include figure.html
   image="images/tli_logo.jpg"
   caption="Lorem ipsum"
+  link="https://landinstitute.org/"
 %}
 
 {% endcapture %}
